@@ -1,0 +1,6 @@
+# Virtual environment folder
+env
+# Compile files
+*.pyc
+# Log files and file configurations
+*.log
